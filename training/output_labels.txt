@@ -1,0 +1,6 @@
+fresh apple
+fresh banana
+fresh oranges
+rotten apples
+rotten banana
+rotten oranges
