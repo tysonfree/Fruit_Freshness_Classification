@@ -112,10 +112,13 @@ https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_convert_model_
 
 ![Project Gif][image 5]
 
+![Output][image 6]
+
 [image 1]: README_Pictures/1.png
 [image 2]: README_Pictures/2.png
 [image 3]: README_Pictures/3.png
 [image 4]: README_Pictures/4.png
 [image 5]: README_Pictures/project_finished.gif
+[image 6]: README_Pictures/5.png
 
 
