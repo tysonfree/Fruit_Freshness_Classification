@@ -114,11 +114,16 @@ https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_convert_model_
 
 ![Output][image 6]
 
+![Project Picture][image 7]
+
+![Output][image 8]
+
 [image 1]: README_Pictures/1.png
 [image 2]: README_Pictures/2.png
 [image 3]: README_Pictures/3.png
 [image 4]: README_Pictures/4.png
 [image 5]: https://github.com/tysonfree/Fruit_Freshness_Classification/blob/master/README_Pictures/project_finished.gif
 [image 6]: https://github.com/tysonfree/Fruit_Freshness_Classification/blob/master/README_Pictures/5.PNG
-
+[image 7]: https://github.com/tysonfree/Fruit_Freshness_Classification/blob/master/README_Pictures/6.PNG
+[image 8]: https://github.com/tysonfree/Fruit_Freshness_Classification/blob/master/README_Pictures/7.PNG
 
