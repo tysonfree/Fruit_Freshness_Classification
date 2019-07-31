@@ -37,7 +37,7 @@ Once you gather your dataset, separate them into folders and name each folder wh
 # 
 *Here’s what I did:*
 
-[image 1]
+![file structure][image 1]
  
 *If you have more fruits in your dataset, you can use more folders of course*
 # 
@@ -55,7 +55,7 @@ curl -LO https://github.com/tensorflow/hub/raw/master/examples/image_retraining/
 # 
 Here’s where I put it:
  
-[image 2]
+![file structure][image 2]
 # 
 
 Next, run the following command to start the retraining process.
@@ -70,9 +70,11 @@ By default an Inception V3 model trained on ImageNet will be retrained. You can 
 ```
 python retrain.py --image_dir images
 ```
-# 
 
 The files will be store in the ```C:\tmp``` directory. I moved them to a folder called training:
+
+![file structure][image 3]
+# 
  
 ### 3. Test and Improve Your Model
 
@@ -85,7 +87,7 @@ curl -LO https://github.com/tensorflow/tensorflow/raw/master/tensorflow/examples
 # 
 *I created an input folder for storing test images to classify:*
 
-[image 3]
+![file structure][image 4]
 # 
  
 In the command line run the following command in order to label an image that you want:
@@ -107,6 +109,8 @@ https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_convert_model_
 
 
 ### You know should have a model that classifies the freshness of apples, bananas, oranges, or any other fruits that you want!
+
+![Project Gif][image 5]
 
 [image 1]: README_Pictures/1.png
 [image 2]: README_Pictures/2.png
